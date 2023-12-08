@@ -6,7 +6,7 @@
 
 以下是到目前为止我完成的工作：
 
- + [Part  0](00_Introduction/Readme.md):  Introduction to the Journey
+ + [第  0 部分](00_Introduction/Readme_zh.md):  旅程的介绍
  + [Part  1](01_Scanner/Readme.md):       Introduction to Lexical Scanning
  + [Part  2](02_Parser/Readme.md):        Introduction to Parsing
  + [Part  3](03_Precedence/Readme.md):    Operator Precedence
