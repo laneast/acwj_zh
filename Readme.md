@@ -1,3 +1,5 @@
+[中文说明](Readme_zh.md)
+
 # A Compiler Writing Journey
 
 In this Github repository, I'm documenting my journey to write a
