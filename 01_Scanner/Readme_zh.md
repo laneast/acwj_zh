@@ -277,4 +277,4 @@ struct token {
 };
 ```
 
-在我们编译器旅程的下一部分中，我们会构建一个递归下降(recursive descent)分析器来解析输入文件的语法，计算并输出每个文件的最终值。[Next step](../02_Parser/Readme.md)
+在我们编译器旅程的下一部分中，我们会构建一个递归下降(recursive descent)解析器来解析输入文件的语法，计算并输出每个文件的最终值。[Next step](../02_Parser/Readme.md)
