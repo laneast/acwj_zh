@@ -31,7 +31,7 @@ C 语言是汇编语言的升级（这一说法适用于部分 C 语言的子集
 ![](Figs/parsing_steps.png)
 
  + 进行[词法分析（lexical analysis）](https://en.wikipedia.org/wiki/Lexical_analysis)来识别词法元素。在一些语言中，`=` 与 `==` 是不同的，所以不能只读取单一的 `=`。我们把这些词法元素叫做 *token*。
- + [解析（Parse）](https://en.wikipedia.org/wiki/Parsing)输入，比如识别输入的语法和结构，确保符合语言的 *语法(grammar)*。比如你的语言可能有如下的分支结构：
+ + [解析（Parse）](https://en.wikipedia.org/wiki/Parsing)输入，也就是识别输入的语法和结构，确保符合语言的 *语法(grammar)*。比如你的语言可能有如下的分支结构：
 
 ```
       if (x < 23) {
