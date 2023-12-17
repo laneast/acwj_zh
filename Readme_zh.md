@@ -8,7 +8,7 @@
 
  + [第  0 部分](00_Introduction/Readme_zh.md):  旅程的介绍
  + [第  1 部分](01_Scanner/Readme.md):          词法扫描的介绍
- + [Part  2](02_Parser/Readme.md):        Introduction to Parsing
+ + [第  2 部分](02_Parser/Readme.md):           解析的介绍
  + [Part  3](03_Precedence/Readme.md):    Operator Precedence
  + [Part  4](04_Assembly/Readme.md):      An Actual Compiler
  + [Part  5](05_Statements/Readme.md):    Statements
