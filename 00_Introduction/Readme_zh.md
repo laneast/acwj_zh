@@ -69,9 +69,6 @@ C 语言是汇编语言的升级（这一说法适用于部分 C 语言的子集
 
 ### 现有的编译器
 
-While I'm going to build my own compiler, I plan on looking at other compilers
-for ideas and probably also borrow some of their code. Here are the ones
-I'm looking at:
 尽管我是在自己做编译器，但我仍计划从别的编译器中获取灵感，可能还会借鉴一些他们的代码。下面是我参考的编译器。
 
   + [SubC](http://www.t3x.org/subc/) 作者是 Nils M Holm
